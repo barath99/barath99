@@ -1,7 +1,7 @@
 ![alt text](https://github.com/barath99/barath99/blob/master/Header.png "Barath99-Header-Image")
 
 ### Hi there 👋
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 - 🔭 <b>I’m currently working on : </b> Progressive Web Apps, Image Processing.
 - 🌱 <b>I’m currently learning :</b> Datastructures and Algorithms
