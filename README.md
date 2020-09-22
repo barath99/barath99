@@ -1,7 +1,7 @@
 <kbd>![alt text](https://github.com/barath99/barath99/blob/master/Header.png "Barath99-Header-Image")</kbd>
 
 ### Hi there 👋
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 <b>I’m currently working on : </b> Progressive Web Apps, Image Processing.
 - 🌱 <b>I’m currently learning :</b> Datastructures and Algorithms
