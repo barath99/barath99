@@ -1,4 +1,4 @@
-![alt text](https://github.com/barath99/barath99/blob/master/Header.png "Barath99-Header-Image")
+<kbd>![alt text](https://github.com/barath99/barath99/blob/master/Header.png "Barath99-Header-Image")</kbd>
 
 ### Hi there 👋
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
