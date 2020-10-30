@@ -10,4 +10,6 @@
 - 📫 <b>How to reach me:</b> Mail me at exploretechsbk@gmail.com
 - ⚡ <b>Fun fact:</b> I love it when I get first-hand experience at things.
 
-<kbd width="100%">![](https://komarev.com/ghpvc/?username=barath99)</kbd>
+<kbd>![](https://komarev.com/ghpvc/?username=barath99)</kbd>
+<kbd>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)</kbd>
+<kbd>[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)</kbd>
